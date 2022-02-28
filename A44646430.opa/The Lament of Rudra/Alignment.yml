@@ -1,0 +1,19 @@
+segment_sources:
+  P8853F829:
+    type: origin_type
+    relation: translation
+    language: en
+  P154854BC:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  435deb48c23141fbb177ff5fd0f5dc21:
+    P8853F829: c2c7b56c1bbb48169ee28416197e77ce
+    P154854BC: 6b53a3a497634613853838e7a7a4dcba
+  e8b6a3b985f24bb08bbc058fe68f8582:
+    P8853F829: 49700cdc1cca4ddb8d3cd52c539692f9
+    P154854BC: 82ec822d7cb9452988cf5cad2d051057
+  962e8e3562db437bbfa148c4136909a0:
+    P8853F829: 54104b33840542cd8d55c124a9eab195
+    P154854BC: d357d7f423f04ff78bc2acb46fbf6816

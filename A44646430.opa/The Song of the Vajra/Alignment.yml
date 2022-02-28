@@ -1,0 +1,26 @@
+segment_sources:
+  P8853F829:
+    type: origin_type
+    relation: translation
+    language: en
+  PB0F464EB:
+    type: origin_type
+    relation: translation
+    language: zh
+  P154854BC:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  2d901a386d474b38b7e997e3e4a3ed7a:
+    P8853F829: 4b706a0ba92d46b2ae4c2df27c808237
+    PB0F464EB: 4d366970317f4b22b3ab35983e6fd79a
+    P154854BC: 2873ce2cff924c16bb1bd67fbee79861
+  860315ee9dea428795575e5ea4af74ea:
+    P8853F829: 9b3659eddb754359be2931099fe25620
+    PB0F464EB: 2bba771956ce4e0cbff8d3a97852f8c3
+    P154854BC: fad6a769af674c7098cefab6bf7b94ee
+  05c3c9370670438dbd817b386bf04bbc:
+    P8853F829: f15ea58984b74221b18e9edd26ff8408
+    PB0F464EB: b4e1add483064842aa9e06d203c4e88b
+    P154854BC: c5ed664a3ba34dfb9080a6ea84fc0922
